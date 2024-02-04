@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 >20yo, self-motivated, hard-working and positive student. I seek to explore my career options in the IT sector to build my technical, analytical, interpersonal and project management skills.
 
-*🔭 I’m currently working on this page.
+* 🔭 I’m currently working on this page.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karthishenoy2014@gmail.com](mailto:karthishenoy2014@gmail.com )
 * 🧠  I'm learning Javascript, Java, Python, Android App studio
