@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is A Karthik Shenoy
 ========================================================================================================================================
-
-A enthusiastic learner from India
 ---------------------------------
 
->**A self-motivated, hard-working and positive student. I seek to explore my career options in the IT sector to build my technical, analytical, interpersonal and project management skills.
+>20yo, self-motivated, hard-working and positive student. I seek to explore my career options in the IT sector to build my technical, analytical, interpersonal and project management skills.
 
 *🔭 I’m currently working on this page.
 * 🌍  I'm based in India
