@@ -46,8 +46,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 	</tr>
 </table>
 
+<hr>
+
+<h3>✒️ Recent GitHub Activity</h3>
 <!--START_SECTION:activity-->
-<
+
 <hr>
 <div align = "center">
 <h3><b>Profile Visits 👁️</b></h3>
