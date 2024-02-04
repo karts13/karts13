@@ -19,7 +19,7 @@ A enthusiastic learner from India
 
 <hr>
 
-### Skills
+### Languages and Skills
 
 
 <p align="left">
@@ -28,11 +28,11 @@ A enthusiastic learner from India
 
 <hr>
 
-###<b>My GitHub Stats</b>
+###My GitHub Stats
 
 <table>
 	<tr>
-		<td colspan = "2"><a href="http://www.github.com/karts13"><img width=100% src="https://github-profile-trophy.vercel.app/?username=karts13r&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "2">[![trophy](https://github-profile-trophy.vercel.app/?username=karts13)](https://github.com/ryo-ma/github-profile-trophy)</td>
 	</tr>
 	<tr>
 		<td><a href="http://www.github.com/karts13"><img src="https://github-readme-stats.vercel.app/api?username=karts13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karts13's GitHub stats" /></a></td>
@@ -50,3 +50,7 @@ A enthusiastic learner from India
 <img width = 25% src = "https://profile-counter.glitch.me/{karts13}/count.svg">
 </hr>
 </div>
+
+
+
+
