@@ -34,14 +34,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <table>
 	<tr>
-		<td colspan = "2">[![trophy](https://github-profile-trophy.vercel.app/?username=karts13)](https://github.com/ryo-ma/github-profile-trophy)</td>
+		<td colspan = "2"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karts13" alt="karts13" /></a></td>
 	</tr>
 	<tr>
 		<td><a href="http://www.github.com/karts13"><img src="https://github-readme-stats.vercel.app/api?username=karts13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karts13's GitHub stats" /></a></td>
 		<td><a href="https://github.com/karts13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karts13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>			</td>
 	</tr>
 	<tr>
-		<td><a href="http://www.github.com/karts13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karts13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+		<td colspan = "2"><a href="http://www.github.com/karts13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karts13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </td>
 	</tr>
 </table>
@@ -52,7 +52,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img width = 25% src = "https://profile-counter.glitch.me/{karts13}/count.svg">
 </hr>
 </div>
-
-
-
-
