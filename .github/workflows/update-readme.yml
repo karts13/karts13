@@ -1,7 +1,9 @@
 name: Update README
+
 on:
   schedule:
     - cron: "*/30 * * * *"
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,33 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    name: Update this repo's README with recent activity
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Git
-        run: |
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-
-      - name: Get repositories and commits
-        run: |
-          REPO_LIST=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-                      "https://api.github.com/user/repos?type=owner" | \
-                      jq -r '.[].full_name')
-
-          for REPO in $REPO_LIST; do
-            COMMITS=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-                        "https://api.github.com/repos/$REPO/commits" | \
-                        jq -r '.[].commit.author.name')
-
-            # Update README with repository name and commit authors
-            sed -i "s|<repo_list>|<repo_list>\n- $REPO: $COMMITS|" README.md
-          done
-
-      - name: Commit and push changes
-        run: |
-          git add README.md
-          git commit -m "Update README with recent activity"
-          git push
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Updated Recent Activity'
+          MAX_LINES: 8
