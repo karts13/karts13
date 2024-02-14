@@ -1,10 +1,15 @@
+https://twitter.com/karts13_/header_photo
+<img src="https://pbs.twimg.com/profile_banners/1754877359704903680/1707931492/1080x360" alt="A Karthik Shenoy | README Banner"></img>
+<hr>
+
 <div align = "center">
 <h1>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> My name is A Karthik Shenoy</h1>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=karts13&color=brightgreen)
+<a href="https://drive.google.com/file/d/1VV3X1_v4TENao4ZQUG2pbJ1ChLOwr0TI/view?usp=sharing" target="_blank"><img align="left" alt="Resume" src="https://dabuttonfactory.com/button.png?t=Resume&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 
->20yo, self-motivated, hard-working and positive student. I seek to explore my career options in the IT sector to build my technical, analytical, interpersonal and project management skills.
+>20yo, pursuing B.Tech in Computer Science from [NMAMIT, Nitte](https://nmamit.nitte.edu.in/)
 
 * 🔭 I’m currently working on [Parkease](https://github.com/karts13/ParkEase)
 * 🧠  I'm learning Javascript, Java, Python, Android App studio
