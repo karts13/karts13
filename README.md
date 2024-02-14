@@ -1,4 +1,3 @@
-https://twitter.com/karts13_/header_photo
 <img src="https://pbs.twimg.com/profile_banners/1754877359704903680/1707931492/1080x360" alt="A Karthik Shenoy | README Banner"></img>
 <hr>
 
