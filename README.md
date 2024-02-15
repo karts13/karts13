@@ -6,9 +6,9 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=karts13&color=brightgreen)
-<a href="https://drive.google.com/file/d/1VV3X1_v4TENao4ZQUG2pbJ1ChLOwr0TI/view?usp=sharing" target="_blank"><img align="left" alt="Resume" src="https://dabuttonfactory.com/button.png?t=Resume&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 
 >20yo, pursuing B.Tech in Computer Science from [NMAMIT, Nitte](https://nmamit.nitte.edu.in/)
+><a href="https://drive.google.com/file/d/1VV3X1_v4TENao4ZQUG2pbJ1ChLOwr0TI/view?usp=sharing" target="_blank"><img align="left" alt="Resume" src="https://dabuttonfactory.com/button.png?t=Resume&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 
 * 🔭 I’m currently working on [Parkease](https://github.com/karts13/ParkEase)
 * 🧠  I'm learning Javascript, Java, Python, Android App studio
@@ -17,23 +17,28 @@
 
 <hr>
 
-### Languages and Skills
+### Languages, Tools and Technologies
 
 <p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="50px" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="50px" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="50px" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50px" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="50px" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50px" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50px" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50px"/> </a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" height="50px" alt="Premiere Pro" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="40px" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40px" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="40px" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40px" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" height="40px"/> </a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pr&theme=dark" height="40px" alt="Premiere Pro" /></a>
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="40px" alt="Android Studio" /></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="40px" alt="Arduino" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40px" alt="Visual Studio" /></a>
+
 </p>
 
 <hr>
 
-### My GitHub Stats
+<details>
+  <summary>Github Stats ⚡</summary>
 
 <table>
 	<tr>
@@ -49,23 +54,27 @@
 	</tr>
 </table>
 
+</details>
+
 <hr>
 
 ### Connect with me:
 
 <p align="center">
    <a href="https://twitter.com/karts13_" target="_blank">
-   <img src="https://www.svgrepo.com/show/452123/twitter.svg" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="35px"/>
    </a>&nbsp;&nbsp;
    <a href="mailto:karthishenoy2014@gmail.com" target="_blank">
-   <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
+   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35px" alt="mail"/>
    </a>&nbsp;&nbsp;
    <a href="https://instagram.com/karts.exe" target="_blank">
-   <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
+   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="35px" alt="Instagram"/>
    </a>&nbsp;&nbsp;
    <a href="https://linkedin.com/in/a-karthik-shenoy" target="_blank">
-   <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35px"/>
    </a>&nbsp;&nbsp;
-   <a href="https://www.hackerrank.com/karts13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karts13" height="40px" /></a>
-<a href="https://www.leetcode.com/karts13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karts13" height="40px" /></a>
+   <a href="https://www.hackerrank.com/karts13" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karts13" height="40px" /></a>
+   <a href="https://www.leetcode.com/karts13" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karts13" height="40px" /></a>
 </p>
