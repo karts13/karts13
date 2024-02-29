@@ -2,18 +2,18 @@
 <hr>
 
 <div align = "center">
-<h1>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> My name is A Karthik Shenoy</h1>
+<h1>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, My name is A Karthik Shenoy</h1>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=karts13&color=brightgreen)
 
->20yo, pursuing B.Tech in Computer Science from [NMAMIT, Nitte](https://nmamit.nitte.edu.in/)
-><a href="https://drive.google.com/file/d/1VV3X1_v4TENao4ZQUG2pbJ1ChLOwr0TI/view?usp=sharing" target="_blank"><img align="left" alt="Resume" src="https://dabuttonfactory.com/button.png?t=Resume&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
+<a href="https://drive.google.com/drive/folders/1e2nMzJ4vdJf-Cu_NL-r3cZZYhKJ4eGE9" target="_blank"><img align="left" alt="Resume" src="https://dabuttonfactory.com/button.png?t=Resume&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
+>20yo, pursuing B.Tech in Computer and Communication Engineering from [NMAMIT, Nitte](https://nmamit.nitte.edu.in/)
 
-* 🔭 I’m currently working on [Parkease](https://github.com/karts13/ParkEase)
+<!--* 🔭 I’m currently working on [Parkease](https://github.com/karts13/ParkEase)-->
 * 🧠  I'm learning Javascript, Java, Python, Android App studio
 * ✉️  You can contact me at [karthishenoy2014@gmail.com](mailto:karthishenoy2014@gmail.com )
-* ⚡  Fun fact Ever heard of a tongue-print. Well, now you have!🥰
+* ⚡  Fun fact: Ever heard of a tongue-print. Well, now you have!🥰
 
 <hr>
 
@@ -23,7 +23,6 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="40px" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40px" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="40px" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40px" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS3" /></a>
@@ -38,7 +37,7 @@
 <hr>
 
 <details>
-  <summary>Github Stats ⚡</summary>
+### Github Stats ⚡
 
 <table>
 	<tr>
@@ -61,20 +60,22 @@
 ### Connect with me:
 
 <p align="center">
-   <a href="https://twitter.com/karts13_" target="_blank">
-   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="35px"/>
-   </a>&nbsp;&nbsp;
-   <a href="mailto:karthishenoy2014@gmail.com" target="_blank">
-   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35px" alt="mail"/>
-   </a>&nbsp;&nbsp;
-   <a href="https://instagram.com/karts.exe" target="_blank">
-   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="35px" alt="Instagram"/>
-   </a>&nbsp;&nbsp;
    <a href="https://linkedin.com/in/a-karthik-shenoy" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35px"/>
    </a>&nbsp;&nbsp;
+   <a href="mailto:karthishenoy2014@gmail.com" target="_blank">
+   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35px" alt="mail"/>
+   </a>&nbsp;&nbsp;   
+   <a href="https://instagram.com/karts.exe" target="_blank">
+   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="35px" alt="Instagram"/>
+   </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/karts13_" target="_blank">
+   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="35px"/>
+   </a>&nbsp;&nbsp;
    <a href="https://www.hackerrank.com/karts13" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karts13" height="40px" /></a>
-   <a href="https://www.leetcode.com/karts13" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karts13" height="40px" /></a>
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karts13" height="40px" />
+   </a>
+   <!--<a href="https://www.leetcode.com/karts13" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karts13" height="40px" />
+   </a>-->
 </p>
