@@ -1,7 +1,6 @@
 <!--
 <img src="https://pbs.twimg.com/profile_banners/1754877359704903680/1707931492/1080x360" alt="A Karthik Shenoy | README Banner"></img>
 -->
-<hr>
 
 <div align = "center">
   <h1>
@@ -16,11 +15,11 @@
     </a>
 </div>
 
->20yo, pursuing B.Tech in Computer and Communication Engineering from [NMAMIT, Nitte](https://nmamit.nitte.edu.in/)
+>20yo, pursuing B.E. in Computer and Communication Engineering from [NMAMIT, Nitte](https://nmamit.nitte.edu.in/)
 
 <!--* 🔭 I’m currently working on [Parkease](https://github.com/karts13/ParkEase)-->
-* 🧠  I'm learning Javascript, Java, Python, Android App studio
-* ✉️  You can contact me at [karthishenoy2014@gmail.com](mailto:karthishenoy2014@gmail.com )
+* 🧠  Currently diving deep into Javascript, Python, Android App studio
+* 💡  Believer in teamwork and collective efforts.
 * ⚡  Fun fact: Ever heard of a tongue-print. Well, now you have!🥰
 
 <hr>
@@ -67,7 +66,7 @@
 
 <details>
 	
-  <summary><h3 style="display:inline;">GitHub Stats ⚡</h3></summary>
+  <summary style = "font-size:16px; font-weight: bold;">GitHub Stats ⚡</summary>
 
   <table>
 	  <tr>
@@ -117,9 +116,9 @@
   <a href="https://twitter.com/karts13_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40px"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/karts13" target="blank">
+  <!--<a href="https://www.hackerrank.com/karts13" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karts13" height="35px" />
-  </a>
+  </a>-->
   <!--<a href="https://www.leetcode.com/karts13" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karts13" height="40px" />
   </a>-->
